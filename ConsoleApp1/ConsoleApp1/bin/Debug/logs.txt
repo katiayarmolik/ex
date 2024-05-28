@@ -1,0 +1,23 @@
+28.05.2024 11:42:57: Added language: Francais
+28.05.2024 11:42:59: Viewed languages
+28.05.2024 11:43:06: Saved languages to file
+28.05.2024 11:43:06: Exit the program
+28.05.2024 11:55:00: Searched translation by regex: вода
+28.05.2024 11:55:13: Searched translation by regex: water
+28.05.2024 11:55:50: Searched translation by regex: wat
+28.05.2024 11:56:05: Searched translation by key: wat
+28.05.2024 12:00:36: Viewed languages
+28.05.2024 12:00:40: Viewed languages
+28.05.2024 12:01:01: Viewed languages
+28.05.2024 17:28:30: Viewed languages
+28.05.2024 17:28:49: Viewed languages
+28.05.2024 17:28:51: Viewed translations for language: Українська
+28.05.2024 17:28:58: Searched translation by key: wat
+28.05.2024 17:30:36: Searched translation by key: wat
+28.05.2024 17:31:15: Searched translation by key: wat
+28.05.2024 18:10:05: Viewed languages
+28.05.2024 18:10:08: Viewed languages
+28.05.2024 18:10:10: Removed language: Francais
+28.05.2024 18:10:15: Viewed languages
+28.05.2024 18:10:17: Viewed translations for language: Українська
+28.05.2024 18:10:34: Searched translation by key: food
